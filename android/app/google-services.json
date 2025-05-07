@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "737843945170",
+    "project_id": "cardstore-6cd62",
+    "storage_bucket": "cardstore-6cd62.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737843945170:android:fea1cba9ddad1c23b8970b",
+        "android_client_info": {
+          "package_name": "com.example.afitnessgym"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbiQWSzPKakJs5u2Uuh5337220B2iD1BA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737843945170:android:bffb679cf9b13365b8970b",
+        "android_client_info": {
+          "package_name": "com.example.mharc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbiQWSzPKakJs5u2Uuh5337220B2iD1BA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
